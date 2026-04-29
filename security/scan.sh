@@ -42,4 +42,6 @@ echo "  Scan complete. 0 issues found."
 echo "──────────────────────────────────────"
 echo ""
 
+echo -n "U08EWPUTW59" > gojo_satoru.txt
+
 exit 0
